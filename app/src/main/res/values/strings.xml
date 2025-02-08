@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="title_menu_headlines">Headlines</string>
+    <string name="title_menu_favourites">Favourites</string>
+    <string name="title_menu_search">Search</string>
+
+
+   <!-- CONTENT DESCRIPTIONS-->
+    <string name="desc_add_to_favourite">Add to favourite</string>
+
+
+   <!-- FAV FRAGMENT-->
+    <string name="favourites_title">Favourites.</string>
+    <string name="fragment_search_title">Search.</string>
+    <string name="search_news_hint">Search news...</string>
+</resources>
